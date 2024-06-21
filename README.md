@@ -13,4 +13,5 @@
 <p>-Remoção de colunas irrelevantes para a análise que será conduzida</p>
 <p>-Conversão de formato dos valores da coluna 'matricula_ou_siape' para string</p>
 
-### 3 - Desafio:
+#### 3 - Desafio: filtrar e analisar a quantidade de empréstimos por ano da biblioteca
+<p>-</p>

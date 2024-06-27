@@ -13,7 +13,7 @@
 <p>-Remoção de colunas irrelevantes para a análise que será conduzida</p>
 <p>-Conversão de formato dos valores da coluna 'matricula_ou_siape' para string</p>
 
-#### Dia 3: filtrar e analisar a quantidade de exemplares emprestados por ano da biblioteca
+#### Dia 3: filtrar e analisar a quantidade de exemplares emprestados pela biblioteca
 <p>-Plotar um gráfico de linhas para a relação: quantidade de exemplares emprestados X ano</p>
 <p>-Plotar um gráfico de linhas para a relação: quantidade de exemplares emprestados X mês</p>
 <p>-Plotar um gráfico de barras para a relação: quantidade de exemplares emprestados X hora</p>

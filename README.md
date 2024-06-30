@@ -14,9 +14,13 @@
 <p>-Conversão de formato dos valores da coluna 'matricula_ou_siape' para string</p>
 
 ### Dia 3: filtrar e analisar o empréstimo de exemplares pela biblioteca
-<p>-Plotar um gráfico de linhas para a relação: quantidade de exemplares emprestados X ano</p>
-<p>-Plotar um gráfico de linhas para a relação: quantidade de exemplares emprestados X mês</p>
-<p>-Plotar um gráfico de barras para a relação: quantidade de exemplares emprestados X hora</p>
+<p>-Plotagem de um gráfico de linhas para a relação: quantidade de exemplares emprestados X ano</p>
+<p>-Plotagem de um gráfico de linhas para a relação: quantidade de exemplares emprestados X mês</p>
+<p>-Plotagem de um gráfico de barras para a relação: quantidade de exemplares emprestados X hora</p>
 
 ### Dia 4: análise exploratória das variáveis 'tempo de vínculo', 'coleção', 'biblioteca' e 'classificação geral da CDU'
-<p>-Plotar gráficos e montar tabelas para vefificar a disposição dos empréstimos mediante cada uma das variáveis exploradas</p>
+<p>-Plotagem de gráficos e montagem de tabelas para vefificar a disposição dos empréstimos mediante cada uma das variáveis exploradas</p>
+
+### Dia 5: avaliação, dentre os alunos de graduação e pós graduação, da distribuição de empréstimos mensais por ano realizados entre 2010 e 2020, da coleção que tiver a maior frequência de empréstimos
+<p>-Plotagem de um gráfico para cada tipo de usuário que estiverem dentro das restrições apresentadas 
+<p>-Plotagem de boxplots para cada ano, a partir das restrições apresentadas</p>
